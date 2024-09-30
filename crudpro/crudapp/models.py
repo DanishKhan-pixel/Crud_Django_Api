@@ -9,3 +9,10 @@ class Student(models.Model):
     city=models.CharField( max_length=50)
 
 
+
+
+
+
+
+
+
